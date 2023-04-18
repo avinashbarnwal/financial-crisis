@@ -14,3 +14,5 @@
 - https://edition.cnn.com/2023/03/16/investing/why-credit-suisse-is-struggling/index.html
 - https://www.reuters.com/business/finance/credit-suisse-how-did-it-get-crisis-point-2023-03-16/
 
+**JPMC**
+- https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/1st-quarter/be0fc3a0-c499-4af9-933c-6e7f75025097.pdf
