@@ -19,3 +19,6 @@
 
 **BOFA**
 - https://www.ft.com/content/e5c392ba-7357-42c0-9a6b-6720769be32e
+
+**Goldman Sachs**
+- https://www.cnbc.com/2023/04/18/goldman-sachs-gs-earnings-1q-2023.html
