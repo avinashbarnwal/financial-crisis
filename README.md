@@ -25,3 +25,6 @@
 
 **Deutsche Bank**
 - https://www.cnbc.com/2023/04/27/deutsche-bank-logs-11th-straight-quarterly-profit-reveals-job-cuts.html
+
+**Standard Chart**
+- https://www.cnbc.com/2023/04/25/risks-in-banking-sector-havent-come-home-to-roost-stanchart-ceo.html
