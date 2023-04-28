@@ -28,3 +28,6 @@
 
 **Standard Chart**
 - https://www.cnbc.com/2023/04/25/risks-in-banking-sector-havent-come-home-to-roost-stanchart-ceo.html
+
+**GDP**
+- https://www.cnbc.com/2023/04/27/gdp-q1-2023-.html
