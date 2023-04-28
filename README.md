@@ -22,3 +22,6 @@
 
 **Goldman Sachs**
 - https://www.cnbc.com/2023/04/18/goldman-sachs-gs-earnings-1q-2023.html
+
+**Deutsche Bank**
+- https://www.cnbc.com/2023/04/27/deutsche-bank-logs-11th-straight-quarterly-profit-reveals-job-cuts.html
