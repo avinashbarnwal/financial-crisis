@@ -35,7 +35,7 @@
 **Fed Survey**
 - https://www.federalreserve.gov/data/sloos/sloos-202304.htm
 
-**2024 Predictions
+**2024 Predictions**
 - [GS] https://www.goldmansachs.com/intelligence/pages/the-global-economy-will-perform-better-than-many-expect-in-2024.html
 - [World Bank] https://www.weforum.org/agenda/2023/11/global-growth-slow-2024-economics-news/
 - [Reuters] https://www.reuters.com/markets/global-markets-outlook-analysis-pix-2023-12-07/#:~:text=Economists%20polled%20by%20Reuters%20predict,growth%20for%202024%20on%20average.
