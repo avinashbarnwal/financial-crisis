@@ -41,3 +41,4 @@
 - [Reuters] https://www.reuters.com/markets/global-markets-outlook-analysis-pix-2023-12-07/#:~:text=Economists%20polled%20by%20Reuters%20predict,growth%20for%202024%20on%20average.
 - [JPMC] https://www.jpmorgan.com/insights/outlook/economic-outlook/economic-trends
 - [GS - Stock Market] https://www.reuters.com/markets/us/goldman-sachs-lifts-2024-sp-500-target-5200-upbeat-profit-outlook-2024-02-19/
+- [Economic Forecast] https://www.conference-board.org/research/us-forecast#:~:text=While%20we%20no%20longer%20forecast,near%202%20percent%20in%202025.
