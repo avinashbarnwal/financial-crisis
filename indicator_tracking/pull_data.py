@@ -3,7 +3,32 @@ import pandas as pd
 import requests # data from api
 # import plotly.express as px # visualize
 from datetime import datetime
+from matplotlib import pyplot as plt
+import numpy as np
 
+def get_plots(df,plot_name):
+    df['value']=df['value']
+    # df_gdp['value']=df_gdp['value'].apply(lambda x: x.replace('.',''))
+
+    df['value'] = pd.to_numeric(df['value'], errors='coerce')
+    df=df[~df['value'].isna()]
+
+    df=df.reset_index()
+    df['date']=pd.to_datetime(df['date'],format='%Y-%m-%d', errors='coerce')
+    df['date']=df['date'].apply(lambda x: x.strftime('%Y-%m-%d'))
+    df['date']=df['date'].apply(lambda x: datetime.strptime(x,'%Y-%m-%d'))
+
+
+
+    df=df.reset_index(drop=True)
+    # df_gdp['value']=df_gdp['value'].astype(float)
+    plt.ioff()
+    plt.plot(df['date'],df['value'])
+    plt.savefig(plot_name)
+    plt.xticks(rotation=45)
+    plt.close()
+
+    # df_gdp.to_csv("gdp.csv")
 
 def fetch_fred_data_as_df(series_id,api_key):
     """
@@ -36,3 +61,9 @@ df_cpi = fetch_fred_data_as_df("CPIAUCSL", api_key)
 df_unemployment = fetch_fred_data_as_df("UNRATE", api_key)
 df_interest_rate = fetch_fred_data_as_df("DFF", api_key)
 df_stock_index = fetch_fred_data_as_df("SP500", api_key)
+
+get_plots(df_gdp,'gdp.png')
+get_plots(df_cpi,'cpi.png')
+get_plots(df_unemployment,'unemployment.png')
+get_plots(df_interest_rate,'interest_rate.png')
+get_plots(df_stock_index,'stock.png')
